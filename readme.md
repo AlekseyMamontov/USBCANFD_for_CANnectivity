@@ -155,8 +155,7 @@ can-module.com
 
 ***3D-printable enclosures for CAN FD adapters (SOLO & DUAL) (freecad, stl, bambulab)***
 
-https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/3D_BoX_canfd.zip
-
+3DBox_for_adaptersSOLO_DUAL.zip
 
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/Box_CANFD_DUAL_adapter.jpg" width="300" alt="3D-printable enclosures for CAN FD adapters">
 
