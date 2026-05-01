@@ -12,6 +12,15 @@ Github
 https://github.com/CANnectivity
 
 Zephyr RTOS  
+Version 
+<pre>
+VERSION_MAJOR = 4
+VERSION_MINOR = 4
+PATCHLEVEL = 99
+VERSION_TWEAK = 0
+EXTRAVERSION =
+</pre>
+
 
 https://www.zephyrproject.org/
 
