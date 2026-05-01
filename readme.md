@@ -19,9 +19,6 @@ https://www.zephyrproject.org/
 INSTALL Ubuntu 24.04
 ------------------------------
 <pre>
- west init -m https://github.com/CANnectivity/cannectivity --mr main my-workspace
- 
- cd my-workspace
  
   sudo apt update
  
@@ -35,7 +32,9 @@ INSTALL Ubuntu 24.04
    
    pip install --user -U west
  
-
+ 
+ west init -m https://github.com/CANnectivity/cannectivity --mr main my-workspace
+ cd my-workspace
  
 west update
 
