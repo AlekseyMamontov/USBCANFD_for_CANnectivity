@@ -31,7 +31,7 @@ INSTALL Ubuntu 24.04
    source .venv/bin/activate
    
    pip install --user -U west
- 
+   pip install -r zephyr/scripts/requirements.txt
  
  west init -m https://github.com/CANnectivity/cannectivity --mr main my-workspace
  cd my-workspace
