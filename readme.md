@@ -50,22 +50,14 @@ export GNUARMEMB_TOOLCHAIN_PATH=/usr
 
 **USB CAN ISO standart**     
 
-<pre>west build -b usbcan_iso  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
-
-Build configurations for using the experimental device_next USB device stack in Zephyr are also provided.
-
-<pre>west build -b usbcan_iso  cannectivity/app/ -- -DFILE_SUFFIX=usbd_next_release</pre>
-
+<pre>west build -p -b usbcan_iso  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
 
 **USB CAN FD SOLO  (1 ch)**     
 
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/G431_2.png" width="300" alt="CANnectivity g431 can-module.com">
 
-<pre>west build -b usbcanfd_Oleksii_g431  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
+<pre>west build -p -b usbcanfd_Oleksii_g431  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
 
-Build configurations for using the experimental device_next USB device stack in Zephyr are also provided.
-
-<pre>west build -b usbcanfd_Oleksii_g431  cannectivity/app/ -- -DFILE_SUFFIX=usbd_next_release</pre>
 
 
 
@@ -73,25 +65,15 @@ Build configurations for using the experimental device_next USB device stack in 
 
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/G473.png" width="300" alt="CANnectivity g473 can-module.com">
 
-<pre>west build -b usbcanfd_Oleksii_g473  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
+<pre>west build -p -b usbcanfd_Oleksii_g473  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
 
-Build configurations for using the experimental device_next USB device stack in Zephyr are also provided.
-
-<pre>west build -b usbcanfd_Oleksii_g473  cannectivity/app/ -- -DFILE_SUFFIX=usbd_next_release</pre>
 
 
 **USB CAN FD TRIO  (3 ch)** 
 
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/CanBridge.png" width="300" alt="CANnectivity g473 can-module.com">
 
-<pre>west build -b canBridge_Oleksii_g473  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
-
-Build configurations for using the experimental device_next USB device stack in Zephyr are also provided.
-
-<pre>west build -b canBridge_Oleksii_g473  cannectivity/app/ -- -DFILE_SUFFIX=usbd_next_release</pre>
-
-
-
+<pre>west build -p -b canBridge_Oleksii_g473  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
 
 
 
