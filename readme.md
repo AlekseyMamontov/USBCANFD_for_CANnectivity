@@ -58,7 +58,7 @@ export GNUARMEMB_TOOLCHAIN_PATH=/usr
 
 
 **USB CAN ISO standart**     
-<img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/standart072.png" width="300" alt="CANnectivity F072 can-module.com">
+<img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/standart072.png" width="200" alt="CANnectivity F072 can-module.com">
 
 <pre>west build -p -b usbcan_iso  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
 
