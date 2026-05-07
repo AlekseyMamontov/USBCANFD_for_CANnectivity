@@ -162,7 +162,7 @@ Jayachandran Dharuman (https://github.com/OpenAutoDiagLabs/cangaroo)
 
 Schildkroet (https://github.com/Schildkroet/CANgaroo)
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/c9f0b54e-88d9-4be4-8684-4bb6ac7423d1" />
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/8da40527-1ded-48d2-a7d4-de4685cd5034" />
 
 Wikilift (https://github.com/wikilift/CANgaroo
 
