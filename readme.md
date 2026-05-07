@@ -170,7 +170,7 @@ Wikilift (https://github.com/wikilift/CANgaroo
 
 #  SavvyCAN
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/47ac33ae-3cfd-407b-84ea-12b890941710" />
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/b4a26fa0-ea29-4713-bd0c-ee2b131f507d" />
 
 https://github.com/collin80/SavvyCAN
 
