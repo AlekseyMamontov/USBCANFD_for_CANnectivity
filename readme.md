@@ -168,6 +168,9 @@ Wikilift (https://github.com/wikilift/CANgaroo
 
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/f8424309-0d9e-4b3b-a7cb-6bd4fdba01cb" />
 
+#  SavvyCAM
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/47ac33ae-3cfd-407b-84ea-12b890941710" />
 
+https://github.com/collin80/SavvyCAN
 
