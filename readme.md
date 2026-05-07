@@ -154,9 +154,12 @@ can-module.com
 
 *CAN Bus Software Overview* 
 
-#<img width="50"  alt="image" src="https://github.com/user-attachments/assets/4599cf1c-6836-4b64-87ad-56a6bc628432" />  SocketCAN, can-utils
+# SocketCAN, can-utils
+
+<img width="50"  alt="image" src="https://github.com/user-attachments/assets/4599cf1c-6836-4b64-87ad-56a6bc628432" />
 
 https://www.kernel.org/doc/html/latest/networking/can.html
+
 https://github.com/linux-can
 
 
