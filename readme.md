@@ -158,6 +158,8 @@ can-module.com
 
 Jayachandran Dharuman (https://github.com/OpenAutoDiagLabs/cangaroo)
 
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/3e33d509-f34b-4809-b4ec-44591a8b1687" />
+
 Schildkroet (https://github.com/Schildkroet/CANgaroo)
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/c9f0b54e-88d9-4be4-8684-4bb6ac7423d1" />
