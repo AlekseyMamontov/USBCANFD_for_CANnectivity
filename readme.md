@@ -154,6 +154,13 @@ can-module.com
 
 *CAN Bus Software Overview* 
 
+#<img width="50"  alt="image" src="https://github.com/user-attachments/assets/4599cf1c-6836-4b64-87ad-56a6bc628432" />  SocketCAN, can-utils
+
+https://www.kernel.org/doc/html/latest/networking/can.html
+https://github.com/linux-can
+
+
+
 # <img src="https://github.com/Schildkroet/CANgaroo/raw/master/src/assets/cangaroo.png" width="48" height="48"> CANgaroo
 
 Jayachandran Dharuman (https://github.com/OpenAutoDiagLabs/cangaroo)
@@ -180,4 +187,12 @@ https://github.com/collin80/SavvyCAN
 https://www.wireshark.org/tools/
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/4ab0cf8e-a04c-4f79-9e5e-7fb9f0894ae9" />
+
+
+#python-can
+
+https://github.com/hardbyte/python-can
+
+https://github.com/cantools/cantools
+
 
