@@ -159,10 +159,12 @@ can-module.com
 Jayachandran Dharuman (https://github.com/OpenAutoDiagLabs/cangaroo)
 
 Schildkroet (https://github.com/Schildkroet/CANgaroo)
+
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/c9f0b54e-88d9-4be4-8684-4bb6ac7423d1" />
 
 Wikilift (https://github.com/wikilift/CANgaroo
-<img width="500" height="399" alt="image" src="https://github.com/user-attachments/assets/f8424309-0d9e-4b3b-a7cb-6bd4fdba01cb" />
+
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/f8424309-0d9e-4b3b-a7cb-6bd4fdba01cb" />
 
 
 
