@@ -1,0 +1,6 @@
+board:
+  name: usbcanfd_solo_can_module
+  full_name: USB CANFD SOLO (can-module.com)
+  vendor: st
+  socs:
+    - name: stm32g431xx

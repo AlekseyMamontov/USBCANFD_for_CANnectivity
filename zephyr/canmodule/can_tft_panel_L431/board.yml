@@ -1,0 +1,9 @@
+# Copyright (c) 2026 Oleksii Mamontov <mamontov1@gmail.com>
+# SPDX-License-Identifier: Apache-2.0
+
+board:
+  name: can_tft_panel_L431
+  full_name: CAN TFT Panel L431
+  vendor: canmodule
+  socs:
+    - name: stm32l431xx
