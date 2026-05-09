@@ -66,7 +66,7 @@ export GNUARMEMB_TOOLCHAIN_PATH=/usr
 
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/G431_2.png" width="300" alt="CANnectivity g431 can-module.com">
 
-<pre>west build -p -b usbcanfd_Oleksii_g431  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
+<pre>west build -p -b usbcanfd_solo_can_module  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
 
 
 
@@ -75,7 +75,7 @@ export GNUARMEMB_TOOLCHAIN_PATH=/usr
 
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/G473.png" width="300" alt="CANnectivity g473 can-module.com">
 
-<pre>west build -p -b usbcanfd_Oleksii_g473  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
+<pre>west build -p -b usbcanfd_dual_can_module  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
 
 
 
@@ -83,7 +83,7 @@ export GNUARMEMB_TOOLCHAIN_PATH=/usr
 
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/CanBridge.png" width="300" alt="CANnectivity g473 can-module.com">
 
-<pre>west build -p -b canBridge_Oleksii_g473  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
+<pre>west build -p -b canBridge_g473_can_module  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
 
 
 
