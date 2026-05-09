@@ -83,7 +83,7 @@ export GNUARMEMB_TOOLCHAIN_PATH=/usr
 
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/CanBridge.png" width="300" alt="CANnectivity g473 can-module.com">
 
-<pre>west build -p -b canBridge_g473_can_module  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
+<pre>west build -p -b canbridge_g473_can_module  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
 
 
 
