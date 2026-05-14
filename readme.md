@@ -196,7 +196,7 @@ https://www.wireshark.org/tools/
 https://rcantools.com/index.html  
 Proprietary commercial software (not open source). SocketCAN native with CAN FD support.
 
-# CANopen
+# CANopen lib
 
 https://github.com/CANopenNode
 
