@@ -196,9 +196,9 @@ https://www.wireshark.org/tools/
 
 https://github.com/phnahes/can-bus-analyzer#screenshots
 
-<img width="800"  alt="image" src="https://github.com/user-attachments/assets/09a1846d-35a9-4b4b-a970-f32ae07cef1d" />
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/09a1846d-35a9-4b4b-a970-f32ae07cef1d" />
 
-<img width="800"  alt="image" src="https://github.com/user-attachments/assets/c630a2d3-ac7f-4b76-a1b5-97889007edbf" />
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/c630a2d3-ac7f-4b76-a1b5-97889007edbf" />
 
 
 # 🖥️ RCAN Tools
