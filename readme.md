@@ -193,8 +193,8 @@ https://www.wireshark.org/tools/
 
 # 🖥️ RCAN Tools
 
-https://rcantools.com/index.html
-
+https://rcantools.com/index.html  
+Proprietary commercial software (not open source). SocketCAN native with CAN FD support.
 
 # CANopen
 
