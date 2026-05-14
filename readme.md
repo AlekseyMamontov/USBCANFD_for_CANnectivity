@@ -204,11 +204,12 @@ https://github.com/CANopenNode/CANopenEditor
 
 https://github.com/CANopenNode/CanOpenSTM32
 
-# python-can
+ python-can
 
 https://github.com/hardbyte/python-can
 https://github.com/cantools/cantools
 https://github.com/canopen-python/canopen CANopen
 
-
+# QT can-bus-api
+https://www.qt.io/blog/qt-can-bus-api-extensions
 
