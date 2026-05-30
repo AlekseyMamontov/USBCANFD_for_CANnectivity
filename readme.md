@@ -229,3 +229,7 @@ https://github.com/canopen-python/canopen CANopen
 # QT can-bus-api
 https://www.qt.io/blog/qt-can-bus-api-extensions
 
+# more info 
+https://github.com/iDoka/awesome-canbus?tab=readme-ov-file#arm
+
+
