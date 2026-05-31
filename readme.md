@@ -220,6 +220,8 @@ https://github.com/CANopenNode/CANopenEditor
 
 https://github.com/CANopenNode/CanOpenSTM32
 
+https://github.com/CANopenTerm/CANopenTerm
+
  python-can
 
 https://github.com/hardbyte/python-can
