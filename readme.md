@@ -212,7 +212,7 @@ https://github.com/phnahes/can-bus-analyzer
 https://rcantools.com/index.html  
 Proprietary commercial software (not open source). SocketCAN native with CAN FD support.
 
-# CANopen lib
+# CANopen 
 
 https://github.com/CANopenNode
 
@@ -221,6 +221,8 @@ https://github.com/CANopenNode/CANopenEditor
 https://github.com/CANopenNode/CanOpenSTM32
 
 https://github.com/CANopenTerm/CANopenTerm
+
+https://github.com/robincornelius/CanOpenMonitor
 
  python-can
 
