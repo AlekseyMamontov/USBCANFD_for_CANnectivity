@@ -229,7 +229,7 @@ https://github.com/robincornelius/CanOpenMonitor
 https://github.com/canopen-python/canopen
 https://github.com/hardbyte/python-can
 https://github.com/cantools/cantools
- 
+https://github.com/Chanchaldhiman/CANviz
 
 # QT can-bus-api
 https://www.qt.io/blog/qt-can-bus-api-extensions
