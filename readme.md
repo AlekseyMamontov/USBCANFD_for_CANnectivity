@@ -224,11 +224,12 @@ https://github.com/CANopenTerm/CANopenTerm
 
 https://github.com/robincornelius/CanOpenMonitor
 
- python-can
-
+# python-can
+ 
+https://github.com/canopen-python/canopen
 https://github.com/hardbyte/python-can
 https://github.com/cantools/cantools
-https://github.com/canopen-python/canopen CANopen
+ 
 
 # QT can-bus-api
 https://www.qt.io/blog/qt-can-bus-api-extensions
