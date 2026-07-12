@@ -9,13 +9,22 @@ https://cannectivity.org/building.html
 fork
 
 https://github.com/AlekseyMamontov/cannectivity
+
 +add
+
 led_boot indication during firmware startup
+
 added boards
+
 usbcan_iso
+
 usbcanfd_solo
+
 usbcanfd_dual
+
 canbridge_g473
+
+
 
 It seems like the firmware contains a serious bug: the part of the code responsible for transmitting frames freezes if you try to send frames into a bus that is not connected to a live CAN network.
 The only way out is to reboot the adapter.
