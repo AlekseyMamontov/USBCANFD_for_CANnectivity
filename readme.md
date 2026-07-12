@@ -2,9 +2,13 @@
 
 <img src="https://cannectivity.org/_static/CANnectivity.png" width="300" alt="CANnectivity Logo">
 
-Project
+**Original project**
 
 https://cannectivity.org/building.html
+
+***Github***
+
+https://github.com/CANnectivity
 
 fork
 
@@ -36,9 +40,6 @@ If I find some time, I will eventually fix this issue myself if the author doesn
 At the moment, the most stable firmware in terms of error handling and overall performance is Elmue's Candlelight 2.5.
 https://github.com/Elmue/CANable-2.5-firmware-Slcan-and-Candlelight
 
-Github
-
-https://github.com/CANnectivity
 
 Zephyr RTOS  
 Version 
