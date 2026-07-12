@@ -6,6 +6,26 @@ Project
 
 https://cannectivity.org/building.html
 
+fork
+
+https://github.com/AlekseyMamontov/cannectivity
++add
+led_boot indication during firmware startup
+added boards
+usbcan_iso
+usbcanfd_solo
+usbcanfd_dual
+canbridge_g473
+
+It seems like the firmware contains a serious bug: the part of the code responsible for transmitting frames freezes if you try to send frames into a bus that is not connected to a live CAN network.
+The only way out is to reboot the adapter.
+The author is aware of this issue, but it looks like he has put it on the back burner for now, or he simply doesn't have the time )
+https://github.com/CANnectivity/cannectivity/issues/217
+
+If I find some time, I will eventually fix this issue myself if the author doesn't beat me to it )
+
+At the moment, the most stable firmware in terms of error handling and overall performance is Elmue's Candlelight 2.5.
+https://github.com/Elmue/CANable-2.5-firmware-Slcan-and-Candlelight
 
 Github
 
