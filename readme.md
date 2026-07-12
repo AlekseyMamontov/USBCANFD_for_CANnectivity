@@ -59,7 +59,7 @@ EXTRAVERSION =
 
 The CANnectivity project is built on the Zephyr RTOS (https://www.zephyrproject.org). Over the years, Zephyr has evolved into a polished and stable ecosystem; thanks to its DeviceTree architecture, porting projects to new MCUs or platforms requires minimal effort.
 
-The usbcan_iso, usbcanfd_solo, usbcanfd_dual, and canbridge_g473 boards are now officially supported upstream in the Zephyr repository. This full DeviceTree integration makes it easy to develop your own firmware from scratch or modify existing projects like CANnectivity.
+The  *usbcan_iso*,  usbcanfd_solo,  usbcanfd_dual  and canbridge_g473 boards are now officially supported upstream in the Zephyr repository. This full DeviceTree integration makes it easy to develop your own firmware from scratch or modify existing projects like CANnectivity.
 https://github.com/zephyrproject-rtos/zephyr/tree/main/boards/canmodule
 
 
