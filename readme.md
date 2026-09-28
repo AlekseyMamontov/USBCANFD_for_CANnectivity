@@ -83,6 +83,9 @@ INSTALL Ubuntu 24.04
    pip install -r zephyr/scripts/requirements.txt
  
  west init -m https://github.com/CANnectivity/cannectivity --mr main my-workspace
+ 
+(or fork  west init -m https://github.com/AlekseyMamontov/cannectivity --mr main my-workspace)
+ 
  cd my-workspace
  
 west update
@@ -106,7 +109,7 @@ export GNUARMEMB_TOOLCHAIN_PATH=/usr
 
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/G431_2.png" width="300" alt="CANnectivity g431 can-module.com">
 
-<pre>west build -p -b usbcanfd_solo_can_module  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
+<pre>west build -p -b usbcanfd_solo  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
 
 
 
@@ -115,7 +118,7 @@ export GNUARMEMB_TOOLCHAIN_PATH=/usr
 
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/G473.png" width="300" alt="CANnectivity g473 can-module.com">
 
-<pre>west build -p -b usbcanfd_dual_can_module  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
+<pre>west build -p -b usbcanfd_dual  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
 
 
 
@@ -123,7 +126,7 @@ export GNUARMEMB_TOOLCHAIN_PATH=/usr
 
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/CanBridge.png" width="300" alt="CANnectivity g473 can-module.com">
 
-<pre>west build -p -b canbridge_g473_can_module  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
+<pre>west build -p -b canbridge_g473  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
 
 
 
