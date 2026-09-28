@@ -39,7 +39,7 @@ If I find some time, I will eventually fix this issue myself if the author doesn
 
 At the moment, the most stable firmware in terms of error handling and overall performance is Elmue's Candlelight 2.5.
 https://github.com/Elmue/CANable-2.5-firmware-Slcan-and-Candlelight
-
+CANable-2.5-firmware flash firmware : 
 
 
 Zephyr RTOS
