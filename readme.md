@@ -39,7 +39,8 @@ If I find some time, I will eventually fix this issue myself if the author doesn
 
 At the moment, the most stable firmware in terms of error handling and overall performance is Elmue's Candlelight 2.5.
 https://github.com/Elmue/CANable-2.5-firmware-Slcan-and-Candlelight
-CANable-2.5-firmware flash firmware : 
+
+CANable-2.5-firmware flash firmware : https://github.com/AlekseyMamontov/USBCANFD_for_CANnectivity/tree/main/flash
 
 
 Zephyr RTOS
@@ -118,7 +119,7 @@ export GNUARMEMB_TOOLCHAIN_PATH=/usr
 
 
 
-**USB CAN FD TRIO  (3 ch)** 
+**CANBRIDGE G473 (3 ch)** 
 
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/CanBridge.png" width="300" alt="CANnectivity g473 can-module.com">
 
@@ -181,7 +182,9 @@ can-module.com
 
 <img src="https://github.com/AlekseyMamontov/CANnectivity-_CANFD-_adapters/blob/main/img/Too_adapters2.jpeg" width="400" alt="USBCANFD 2ch adapter can-module.com">
 
+***3D-printable enclosures for USBCAN ISO adapter (freecad, stl, bambulab)***
 
+3D_box_usbcan_iso.zip
 
 ***3D-printable enclosures for CAN FD adapters (SOLO & DUAL) (freecad, stl, bambulab)***
 
