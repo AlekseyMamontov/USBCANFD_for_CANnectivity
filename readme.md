@@ -286,6 +286,9 @@ https://www.qt.io/blog/qt-can-bus-api-extensions
 
 https://canpie.github.io/
 
+# RealDash
+https://github.com/janimm/RealDash-extras
+
 # more info 
 https://github.com/iDoka/awesome-canbus?tab=readme-ov-file#arm
 
