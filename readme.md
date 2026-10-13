@@ -288,6 +288,7 @@ https://canpie.github.io/
 
 # RealDash
 https://github.com/janimm/RealDash-extras
+https://forum.realdash.net/t/linux-version-info-and-install-instructions/1098
 
 # more info 
 https://github.com/iDoka/awesome-canbus?tab=readme-ov-file#arm
