@@ -40,21 +40,11 @@ If I find some time, I will eventually fix this issue myself if the author doesn
 At the moment, the most stable firmware in terms of error handling and overall performance is Elmue's Candlelight 2.5.
 https://github.com/Elmue/CANable-2.5-firmware-Slcan-and-Candlelight
 
-CANable-2.5-firmware flash firmware : https://github.com/AlekseyMamontov/USBCANFD_for_CANnectivity/tree/main/flash
+CANable-2.5-firmware and CANnectivity flash firmware : https://github.com/AlekseyMamontov/USBCANFD_for_CANnectivity/tree/main/flash
 
 
-Zephyr RTOS
+Zephyr RTOS 4.5.0
 -----------
-
-Version 
-<pre>
-VERSION_MAJOR = 4
-VERSION_MINOR = 4
-PATCHLEVEL = 99
-VERSION_TWEAK = 0
-EXTRAVERSION =
-</pre>
-
 
 The CANnectivity project is built on the Zephyr RTOS (https://www.zephyrproject.org). Over the years, Zephyr has evolved into a polished and stable ecosystem; thanks to its DeviceTree architecture, porting projects to new MCUs or platforms requires minimal effort.
 
@@ -100,7 +90,8 @@ export GNUARMEMB_TOOLCHAIN_PATH=/usr
 ..
 
 
-**USB CAN ISO**     
+**USB CAN ISO**  
+
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/standart072.png" width="200" alt="CANnectivity F072 can-module.com">
 
 <pre>west build -p -b usbcan_iso  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
