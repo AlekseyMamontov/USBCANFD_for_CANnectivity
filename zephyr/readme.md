@@ -1,1 +1,0 @@
-file extract --> zephyr/boards/
