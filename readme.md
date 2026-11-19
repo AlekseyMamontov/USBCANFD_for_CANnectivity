@@ -125,7 +125,12 @@ export GNUARMEMB_TOOLCHAIN_PATH=/usr
 
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/G473.png" width="300" alt="CANnectivity g473 can-module.com">
 
-<pre>west build -p -b usbcanfd_dual  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
+<pre>
+west build -p -b usbcanfd_dual  cannectivity/app/ -- -DFILE_SUFFIX=release
+ 
+west build -p always -b usbcanfd_dual  cannectivity/app/ -- -DCONFIG_USBD_GS_USB_TX_NONBLOCKING=y
+
+</pre>
 
 
 
@@ -133,7 +138,12 @@ export GNUARMEMB_TOOLCHAIN_PATH=/usr
 
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/CanBridge.png" width="300" alt="CANnectivity g473 can-module.com">
 
-<pre>west build -p -b canbridge_g473  cannectivity/app/ -- -DFILE_SUFFIX=release</pre>
+<pre>
+ west build -p -b canbridge_g473  cannectivity/app/ -- -DFILE_SUFFIX=release
+ 
+ west build -p always -b canbridge_G473  cannectivity/app/ -- -DCONFIG_USBD_GS_USB_TX_NONBLOCKING=y
+
+</pre>
 
 
 
