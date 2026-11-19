@@ -38,12 +38,15 @@ https://github.com/CANnectivity/cannectivity/issues/217
 <pre>
  update 19.11.2026
  
-This patch for the adapter resolves the issue where CAN channels freeze when a transmission problem occurs on a single channel. 
+This patch for the adapter resolves the issue where CAN channels
+ freeze when a transmission problem occurs on a single channel. 
 Other channels continue to operate as expected.
  
 https://github.com/AlekseyMamontov/USBCANFD_for_CANnectivity/blob/main/cannectivity/gs_usb_nonblocking.zip
  
-You need to replace the files in cannectivity/subsys/usb/device_next/class, or clone my fork and build the firmware from there, as this fix has not yet been merged into the main CANnectivity repository.
+You need to replace the files in cannectivity/subsys/usb/device_next/class, 
+ or clone my fork and build the firmware from there,
+ as this fix has not yet been merged into the main CANnectivity repository.
  
 </pre>
 
