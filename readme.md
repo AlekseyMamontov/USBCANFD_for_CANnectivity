@@ -35,6 +35,19 @@ The only way out is to reboot the adapter.
 The author is aware of this issue, but it looks like he has put it on the back burner for now, or he simply doesn't have the time )
 https://github.com/CANnectivity/cannectivity/issues/217
 
+<pre>
+ update 19.11.2026
+ 
+This patch for the adapter resolves the issue where CAN channels freeze when a transmission problem occurs on a single channel. 
+Other channels continue to operate as expected.
+ 
+https://github.com/AlekseyMamontov/USBCANFD_for_CANnectivity/blob/main/cannectivity/gs_usb_nonblocking.zip
+ 
+You need to replace the files in cannectivity/subsys/usb/device_next/class, or clone my fork and build the firmware from there, as this fix has not yet been merged into the main CANnectivity repository.
+ 
+</pre>
+
+
 If I find some time, I will eventually fix this issue myself if the author doesn't beat me to it )
 
 At the moment, the most stable firmware in terms of error handling and overall performance is Elmue's Candlelight 2.5.
