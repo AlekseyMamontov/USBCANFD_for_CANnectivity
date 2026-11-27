@@ -213,6 +213,15 @@ can-module.com
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/Box_CANFD_DUAL_adapter.jpg" width="300" alt="3D-printable enclosures for CAN FD adapters">
 <img src="https://github.com/AlekseyMamontov/CANnectivity-CANFD-adapters/blob/main/img/Box_CANFD_DUAL_adapter2.jpg" width="300" alt="3D-printable enclosures for CAN FD adapters">
 
+***3D-printable enclosure for USBCANFD DUAL with M3 screws and heat-set inserts (freecad, step, stl, bambulab)***
+
+Light pipes for the RX/TX LEDs, reset button plunger, removable 120 Ω jumper holders and two-colour labels. Built from a FreeCAD Python script.
+
+[3D_box_usbcanfd_dual_m3_nut](3D/3D_box_usbcanfd_dual_m3_nut/)
+
+<img src="img/photo_top_assembled.jpg" height="280" alt="3D-printable enclosure for USBCANFD DUAL, M3 screws">
+<img src="img/render_exploded.png" height="280" alt="3D-printable enclosure for USBCANFD DUAL, exploded view">
+
 
 *CAN Bus Software Overview* 
 
